@@ -16,3 +16,8 @@ This Game  is a "match three" game, where the core gameplay is based on swapping
 
 
 ![Screenshot_1611728321](https://user-images.githubusercontent.com/55308841/105951408-fd3da000-6095-11eb-9254-9edaad376ad4.png)
+
+
+# contributior
+
+Rahul Kumar , rahul13199kumar
